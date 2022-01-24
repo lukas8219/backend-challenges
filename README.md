@@ -4,8 +4,8 @@ Want to test your knowledge using real jobs challenges? Here is a public list of
 
 Feel free to contribute! Only open-source challenges please!
 
-| | Company | Stack | Test
-|--|--|--|--
+| | Company | Stack | Test | TIPO
+|--|--|--|--|--
 | :gibraltar: | [Addison Global - 1](http://www.addisongloballtd.com/) | Java or Scala, Any Framework & REST API | [Code →](https://github.com/addisonglobal/backend-technical-test)
 | :gibraltar: | [Addison Global - 2](http://www.addisongloballtd.com/) | Java 8+, Akka HTTP or Spring Boot & REST API | [Code →](https://github.com/addisonglobal/java8-technical-test)
 | :kenya: | [Africa's Talking - 1](https://africastalking.com/) | Scala, Regex | [Code →](https://github.com/AfricasTalkingTalent/BackendCodeChallengeSeptember2018)
@@ -16,7 +16,7 @@ Feel free to contribute! Only open-source challenges please!
 | :fr: | [AirCall](https://aircall.io/) | Ruby & Rails | [Code →](https://github.com/aircall/backend-test-5)
 | :brazil: | [Amaro](https://amaro.com/) | PHP | [Code →](https://github.com/amarofashion/back-end-challenge)
 | :us: | [Ambulnz](http://www.ambulnz.com/) | (Node.js or Ruby) & Any Framework | [Code →](https://github.com/AmbulnzLLC/fullstack-challenge/tree/master/backend)
-| :brazil: | [AmeDigital](https://www.amedigital.com/) | Kotlin, Scala, Java | [Code →](https://github.com/AmeDigital/challenge-back-end-hit)
+| :brazil: | [AmeDigital](https://www.amedigital.com/) | Kotlin, Scala, Java | [Code →](https://github.com/AmeDigital/challenge-back-end-hit) | FACIL/CRUD
 | :brazil: | [BCredi](https://www.bcredi.com.br/) | Java or Ruby | [Code →](https://github.com/bcredi/teste-backends)
 | :brazil: | [B2W](https://ri.b2w.digital/) | Java or Elixir | [Code →](https://github.com/b2w-marketplace/challenge-backend)
 | :brazil: | [Bossabox](https://bossabox.com/para-profissionais) | Any Language & Any Framework & Web API | [Code →](https://www.notion.so/Back-end-0b2c45f1a00e4a849eefe3b1d57f23c6)
